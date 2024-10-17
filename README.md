@@ -77,4 +77,4 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
 ## Contact
 Your Name - Chamath Dilshan
 
-Project Link: [https://github.com/YourUsername/Modern-Java-Chat-App-UI](https://github.com/YourUsername/Modern-Java-Chat-App-UI)
+Project Link: (https://github.com/ChamathDilshanC/Chat-App-UI)
